@@ -4,7 +4,7 @@
     "password": "root",
     "database": "api_v1",
     "host": "localhost",
-    "dialect": "mariadb",
+    "dialect": "mysql",
     "operatorsAliases": false
   }
-}
+} 
